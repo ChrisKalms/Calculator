@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Trigonometric</name>
+    </assembly>
+    <members>
+        <member name="T:Trigonometric.Trigonometry">
+            @Author Chris Kalms
+            @Created 09/05/19
+            @Version 2.0 
+            <summary>
+            Class <c>Trigonometry</c> holds Trigonometry functions
+            that perform calculations on inputted data.
+            </summary>
+        </member>
+        <member name="M:Trigonometric.Trigonometry.DegreesTan(System.Double,System.Double@)">
+            <summary>
+            Performs calculation on degrees to find the tangent.
+            </summary>
+            <param name="degrees">The degrees value to find 
+               tangent from. </param>
+            <param name="tan">The value of tan to be output after 
+               calculation.</param>
+            <returns>False if tan(90) is invalid. Otherwise True.</returns>
+        </member>
+        <member name="M:Trigonometric.Trigonometry.DegreesSin(System.Double)">
+            <summary>
+            Performs calculation on degrees to find the sine.
+            </summary>
+            <param name="degrees">The degree value to find 
+               sine from.</param>
+            <returns>The sine of degrees.</returns>
+        </member>
+        <member name="M:Trigonometric.Trigonometry.DegreesCos(System.Double)">
+            <summary>
+            Performs calculation on degrees to find the cosine.
+            </summary>
+            <param name="degrees">The Degree value to find cosine from.</param>
+            <returns>The cosine of degrees</returns>
+        </member>
+        <member name="M:Trigonometric.Trigonometry.ConvertToRadians(System.Double)">
+            <summary>
+            Convert degrees to radians
+            </summary>
+            <param name="degrees">The value to be converted</param>
+            <returns>The Radian equivalent to the degrees inputted.</returns>
+        </member>
+    </members>
+</doc>

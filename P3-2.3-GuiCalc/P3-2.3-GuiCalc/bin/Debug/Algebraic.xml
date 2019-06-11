@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Algebraic</name>
+    </assembly>
+    <members>
+        <member name="T:Algebraic.Algebra">
+            @Author Chris Kalms
+            @Created 09/05/19
+            @Version 2.0
+            <summary>
+            Class <c> Algebra</c> holds Algebraic functions
+            that perform calculations on inputted data.
+            </summary>
+        </member>
+        <member name="M:Algebraic.Algebra.SquareRoot(System.Double,System.Double@)">
+            <summary>
+            Performs Square Root on the inputted value.
+            </summary>
+            <param name="valueToSquareRoot">The value to perform the square
+               root equation on.</param>
+            <param name="output">The outputted value from the square root.</param>
+            <returns>False if the square root is not valid. Otherwise True.</returns>
+        </member>
+        <member name="M:Algebraic.Algebra.CubeRoot(System.Double)">
+            <summary>
+            Performs a cube root on the input value.
+            </summary>
+            <param name="valueToCubeRoot">The value to perform the cube root
+               equation on.</param>
+            <returns>The cube rooted value.</returns>
+        </member>
+        <member name="M:Algebraic.Algebra.Inverse(System.Double,System.Double@)">
+            <summary>
+            Inverts the input value.
+            </summary>
+            <param name="valueToBeInverted">The inputted value to be inverted</param>
+            <param name="output">The output value after inversion.</param>
+            <returns>False if inversion is not valid. Otherwise True.</returns>
+        </member>
+    </members>
+</doc>

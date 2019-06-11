@@ -1,0 +1,7 @@
+C:\Users\almos\source\repos\tafe\Prog3\Assessment\Prog3AT1.6-GuiCalc\Arithmetic\Arithmetic\bin\Debug\Arithmetic.dll
+C:\Users\almos\source\repos\tafe\Prog3\Assessment\Prog3AT1.6-GuiCalc\Arithmetic\Arithmetic\bin\Debug\Arithmetic.pdb
+C:\Users\almos\source\repos\tafe\Prog3\Assessment\Prog3AT1.6-GuiCalc\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csprojAssemblyReference.cache
+C:\Users\almos\source\repos\tafe\Prog3\Assessment\Prog3AT1.6-GuiCalc\Arithmetic\Arithmetic\obj\Debug\Arithmetic.csproj.CoreCompileInputs.cache
+C:\Users\almos\source\repos\tafe\Prog3\Assessment\Prog3AT1.6-GuiCalc\Arithmetic\Arithmetic\obj\Debug\Arithmetic.dll
+C:\Users\almos\source\repos\tafe\Prog3\Assessment\Prog3AT1.6-GuiCalc\Arithmetic\Arithmetic\obj\Debug\Arithmetic.pdb
+C:\Users\almos\source\repos\tafe\Prog3\Assessment\Prog3AT1.6-GuiCalc\Arithmetic\Arithmetic\bin\Debug\Arithmetic.xml
